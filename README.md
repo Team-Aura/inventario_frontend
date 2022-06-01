@@ -1,4 +1,5 @@
 # inventario_frontend
+![inventario_frontend](https://socialify.git.ci/Team-Aura/inventario_frontend/image?language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FTeam-Aura%2Fteamaura-page%2Fmaster%2Fassets%2Fimages%2Flogo.png&name=1&owner=1&pattern=Signal&theme=Light)
 
 ## Build Setup
 
